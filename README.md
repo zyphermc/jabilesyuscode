@@ -7,7 +7,7 @@
 <h3 align="center">To-do App</h3>
 
   <p align="center">
-    A basic website to put in your tasks.
+    A basic website to list your tasks.
     <br />
   </p>
 </div>
